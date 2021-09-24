@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diana
 - 👀 I’m interested in becoming a software developer and advancing my career
-- 🌱 I’m currently learning java, c++, and c 
+- 🌱 I’m currently learning java
 - 💞️ I will occasionally upload small projects that I create
 
 <!---
