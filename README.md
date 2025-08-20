@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diana
-- 👀 I’m interested in becoming a Data Engineer and advancing my career
-- 🌱 I’m currently learning Python, SQL
+- 👀 I’m interested in becoming a Software Engineer and advancing my career
+- 🌱 I’m currently learning Python, and DSA
 - 💞️ I will occasionally upload small projects that I create per my courses
 
 <!---
