@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diana
 - 👀 I’m interested in becoming a Software Engineer and advancing my career as a developer
 - 🌱 I’m currently learning Python and DSA
-- 💞️ I will upload small projects that I create per my courses
+- 💞️ I will upload projects that I create per my courses
 - ✨ My hobbies include going to the gym 5xs a week, finding on social media healthy high protein meals and, most importantly, video games!
 
 ![dblan044's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dblan044&theme=tokyonight&hide_border=true)
